@@ -9,7 +9,8 @@ c)
 La cantidad de pedidos unicos que se hicieron en total fue de: 5370
 Los ID de los 5 pedidos con mayores articulos comprados fueron: 2675, 4482, 443, 330, 4305 . Todos los pedidos tuvieron un total de 14 articulos comprados.
 EL primer pedido que se realizo fue el 1 de Enero del 2023 y el último que se realizó fue el 31 de Marzo del 2023.
-Se hicieron una cantidad de 702 pedidos entre las fechas '2023-01-01' y '2023-01-05'
+Se hicieron una cantidad de 702 pedidos entre las fechas '2023-01-01' y '2023-01-05'.
+
 d)
 El platillo más solicitado fue la Hamburguesa normal con 622 pedidos y el platillo menos solicitado fueron los Chicken Tacos ocn un total de 123 pedidos.
 La comida Asiatica fue la más pedida con 3470 pedidos y los platillos menos solicitados son los Americanos con 2734 pediddos.
